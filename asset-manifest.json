@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPA/static/css/main.c1b5513c.css",
+    "main.js": "/SPA/static/js/main.130c1961.js",
+    "index.html": "/SPA/index.html",
+    "main.c1b5513c.css.map": "/SPA/static/css/main.c1b5513c.css.map",
+    "main.130c1961.js.map": "/SPA/static/js/main.130c1961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b5513c.css",
+    "static/js/main.130c1961.js"
+  ]
+}
